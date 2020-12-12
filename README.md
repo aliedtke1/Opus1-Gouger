@@ -1,8 +1,6 @@
 # Opus1-Gouger
 
-Project: Create/revise help documentation and user manual for the Opus1 Gouger
-The Opus1 Gouger is a product oboe players use as part of the reedmaking process
-https://www.opus1gouger.com/
+Project: Create/revise help documentation and user manual for the Opus1 Gouger - the Opus1 Gouger is a product oboe players use as part of the reedmaking process (https://www.opus1gouger.com/)
 
 
 Project lead: Alex Liedtke
