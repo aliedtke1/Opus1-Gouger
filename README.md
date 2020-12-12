@@ -24,7 +24,7 @@ The project will contain two parts:
 
 
 
-Milestones for this project - within each milestone there will be separate project milestones/timelines
+Milestones for this project - within each milestone there will be separate task milestones/timelines
 
   1. Create content standards style sheet for naming conventions - incomplete 
   2. Create HTML/CSS script for each type of article template - incomplete
